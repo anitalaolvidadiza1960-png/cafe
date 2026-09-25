@@ -74,7 +74,7 @@ nav {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: var(--white);
+  color: white;
   padding: 0 1.5rem;
 }
 
@@ -140,7 +140,7 @@ nav {
 }
 
 .card {
-  background: var(--white);
+  background: black;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
@@ -169,7 +169,7 @@ nav {
 .card-title {
   font-size: 1.3rem;
   margin-bottom: 0.5rem;
-  color: var(--primary);
+  color: white;
 }
 
 .card-desc {
@@ -190,7 +190,7 @@ nav {
 .price {
   font-size: 1.2rem;
   font-weight: bold;
-  color: var(--primary);
+  color: white;
 }
 
 /* ================= FOOTER ================= */
